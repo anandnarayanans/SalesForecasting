@@ -2,6 +2,12 @@
 
 ✅https://www.veed.io/view/dc9bf914-9057-4ab1-8eda-4a4b70a84a33?panel=share
 
+# Description:
+
+-Developed a fully automated Sales Forecasting pipeline using the SARIMAX model, integrating data extraction, preprocessing, model training, and prediction to enhance demand forecasting accuracy by 30%.
+
+-Built an interactive Power BI dashboard for real-time visualization, enabling data-driven business decisions, and deployed a web interface using Flask (backend) and Angular (frontend) for seamless user interaction.
+
 # Pics
 
 ### Login / SignUp Page
